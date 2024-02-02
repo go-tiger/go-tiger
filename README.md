@@ -1,10 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=go-tiger&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
 
 ## 📢 About me
-- contact
-  - email : gotigeradm@gmail.com | jangbin@kakao.com
-  - discord : gotiger_
-- blog : https://blog.gotiger.dev
+### contact
+#### email
+[![Gmail](https://img.shields.io/badge/gotigeradm@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:gotigeradm@gmail.com)
+[![Kakao-mail](https://img.shields.io/static/v1?style=flat&message=jangbin@kakao.com&color=222222&logo=Kakao&logoColor=FFCD00&label=)](mailto:jangbin@kakao.com)
+#### discord
+![Discord](https://img.shields.io/static/v1?style=flat&message=gotiger_&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
+### blog
+[![Tistory](https://img.shields.io/static/v1?style=flat&message=BLOG&color=000000&logo=Tistory&logoColor=FFFFFF&label=)](https://blog.gotiger.dev)
 
 ## ⚒️ SKILLS
 
@@ -46,3 +50,5 @@
 ![Slack](https://img.shields.io/static/v1?style=flat&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 ![Discord](https://img.shields.io/static/v1?style=flat&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=flat&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=go-tiger&show_icons=true&theme=react)
