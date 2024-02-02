@@ -1,14 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=go-tiger&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
 
 ## 📢 About me
-### contact
-#### email
+### Contact
+#### Email
 [![Gmail](https://img.shields.io/badge/gotigeradm@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:gotigeradm@gmail.com)
 [![Kakao-mail](https://img.shields.io/static/v1?style=flat&message=jangbin@kakao.com&color=222222&logo=Kakao&logoColor=FFCD00&label=)](mailto:jangbin@kakao.com)
-#### discord
+#### Discord
 ![Discord](https://img.shields.io/static/v1?style=flat&message=gotiger_&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
-### blog
-[![Tistory](https://img.shields.io/static/v1?style=flat&message=BLOG&color=000000&logo=Tistory&logoColor=FFFFFF&label=)](https://blog.gotiger.dev)
+### Blog
+[![Tistory](https://img.shields.io/static/v1?style=flat&message=blog.gotiger.dev&color=000000&logo=Tistory&logoColor=FFFFFF&label=)](https://blog.gotiger.dev)
 
 ## ⚒️ SKILLS
 
