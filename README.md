@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=go-tiger&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=go-tiger&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30)
 
 ## 📢 About me
 ### Contact
